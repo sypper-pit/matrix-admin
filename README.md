@@ -23,3 +23,11 @@ This repository contains a Bash script for managing users on a Matrix Synapse se
 - Admin `ACCESS_TOKEN` for the Synapse server
 
 ---
+
+## **install JSON**
+```
+sudo apt install jq     # For Debian/Ubuntu
+```
+```
+sudo yum install jq     # For CentOS/Fedora/RHEL
+```
